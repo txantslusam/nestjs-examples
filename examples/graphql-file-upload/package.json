@@ -30,7 +30,7 @@
     "apollo-server-express": "2.9.7",
     "aws-sdk": "^2.595.0",
     "class-transformer": "0.2.3",
-    "class-validator": "0.11.0",
+    "class-validator": "0.14.0",
     "dotenv": "^8.1.0",
     "graphql": "14.5.8",
     "graphql-subscriptions": "1.1.0",
